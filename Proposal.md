@@ -28,41 +28,21 @@ We are providing additional options for students to customize their own choice o
 
 ## Epics / User Stories / Tasks :
 
-Below would be the estimated list of tasks for this project.
+Below would be the estimated user stories for this project.
 
-1)Design an ERD Diagram suitable for implementing the application.
+1)As a User I want to login/Signup for the application.
 
-2)Designing of the User Interface Suitable for the application.
+2)As a user I want to login via two factor authentication successfully using the application
 
-3)Building a signup page for the application with all the required details.
+3)As a User I want to upload my course Schedule
 
-4)Build a Sign-in page for logging into the application and validating the data from the database.
+4)As a User I want to view grid view of my courses
 
-5)Building the module to include two-factor authentication for the users.
+5)As a User I want to know about the upcoming to-do lists of the specific class.
 
-6)Verification of two-factor authentication Scheme with the users.
+6)As a User I want to look at the memo functionlity of the application.
 
-7)Build the module to have an option for students to upload the course schedule.
-
-8)Building a Home page of the application to display a grid view of courses.
-
-9)Perform Validation to check if the home page is displayed accordingly as expected.
-
-10)Development of the code to display the to-do lists along with memo functionality in the application.
-
-11)Perform Validation to check if the to-do lists are displayed accordingly.
-
-12)Development of code to link the calendar to the application to display all the tasks for the respective dates.
-
-13)Perform Validation to check if the calendar is updated accordingly.
-
-14)Develop a chat option inside the application which would allow students for communicating.
-
-15)Verification to check if chat functionality is properly working.
-
-16)Develop a code to have an option for students to select the choice of their themes.
-
-17)Validating if we have the above option for customization of themes is properly working
+7)As a User I want to choose my themes for display purpose
 
 ## Acceptance criteria checklist:
 
