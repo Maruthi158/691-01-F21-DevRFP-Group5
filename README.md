@@ -28,6 +28,11 @@ Below are the details for stack:
 
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
+**Detailed Proposal Link :**
+[click here](https://github.com/Maruthi158/691-01-F21-DevRFP-Group5/blob/main/Proposal.md)
+
+
+
 
 
 
