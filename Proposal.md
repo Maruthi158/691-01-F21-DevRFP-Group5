@@ -51,6 +51,30 @@ Below would be the estimated user stories for this project.
 * Having knowledge on chat option to communicate with professors and students.
 * Having Knowledge of customization of themes to choose as per the display.
 
+## Schedule:
+Below is the estimated schedule of user stories for this project:
+![image](https://user-images.githubusercontent.com/77593316/133338569-549b783c-801d-4ae3-bca0-214f64904cd4.png)
+
+## Technology stack descriptions:
+
+Below are the details for stack:
+
+1)**Backend language + framework :** The backend language & framework  for this project would be  **JavaScript / Node.js**
+
+
+2)**Backend app host :** The backend app host would be **Heroku**
+
+
+3)**Data host + type :** The Data host and type for this project would be  **Atlas MongoDB**
+
+
+4)**Front-end page plan :** The Front-end page plan would be single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages. The goal is faster transitions that make the website feel more like a native app.
+
+5)**Front-end responsive design :** The Front end responsive design would be **Bootstrap.**
+
+6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
+
+
 
 
 
