@@ -28,6 +28,46 @@ We are providing additional options for students to customize their own choice o
 
 ## Epics / User Stories / Tasks :
 
-Below would be the estimated list of user stories for this project.
+Below would be the estimated list of tasks for this project.
 
-1)
+1)Design an ERD Diagram suitable for implementing the application.
+
+2)Designing of the User Interface Suitable for the application.
+
+3)Building a signup page for the application with all the required details.
+
+4)Build a Sign-in page for logging into the application and validating the data from the database.
+
+5)Building the module to include two-factor authentication for the users.
+
+6)Verification of two-factor authentication Scheme with the users.
+
+7)Build the module to have an option for students to upload the course schedule.
+
+8)Building a Home page of the application to display a grid view of courses.
+
+9)Perform Validation to check if the home page is displayed accordingly as expected.
+
+10)Development of the code to display the to-do lists along with memo functionality in the application.
+
+11)Perform Validation to check if the to-do lists are displayed accordingly.
+
+12)Development of code to link the calendar to the application to display all the tasks for the respective dates.
+
+13)Perform Validation to check if the calendar is updated accordingly.
+
+14)Develop a chat option inside the application which would allow students for communicating.
+
+15)Verification to check if chat functionality is properly working.
+
+16)Develop a code to have an option for students to select the choice of their themes.
+
+17)Validating if we have the above option for customization of themes is properly working
+
+
+
+
+
+
+
+
