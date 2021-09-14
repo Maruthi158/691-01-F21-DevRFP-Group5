@@ -64,6 +64,12 @@ Below would be the estimated list of tasks for this project.
 
 17)Validating if we have the above option for customization of themes is properly working
 
+## Acceptance criteria checklist:
+
+* Each User must have a PC.
+* Should be able to use the application efficiently to check his upcoming events.
+* Having knowledge on chat option to communicate with professors and students.
+* Having Knowledge of customization of themes to choose as per the display.
 
 
 
