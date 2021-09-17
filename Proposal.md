@@ -72,10 +72,9 @@ Below are the details for stack:
 
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
+## User Interface
 
 
-
-
-
+![SIGN-IN-PAGE](https://user-images.githubusercontent.com/77635770/133705782-c144f4a5-14c8-490e-97f5-a7acbd68f130.jpeg)
 
 
