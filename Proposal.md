@@ -72,10 +72,13 @@ Below are the details for stack:
 
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
-## Sign-in Page Layout 
-
+## Home Page Layout 
 ![HomePage](https://user-images.githubusercontent.com/77635770/133955991-c50028fb-7222-4bcd-a08f-9c983a5b617e.jpeg)
+
+## Sign-in Page Layout
 ![signinpage](https://user-images.githubusercontent.com/77635770/133955998-e2e2f408-c036-4f60-b1a3-e4351978a0ae.jpeg)
+
+## Sign-up Page Layout
 ![signuppage](https://user-images.githubusercontent.com/77635770/133956002-9098930a-acdd-492f-a42d-938eb557acc6.jpeg)
 
 
