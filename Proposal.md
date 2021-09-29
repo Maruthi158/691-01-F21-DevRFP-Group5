@@ -81,6 +81,11 @@ Below are the details for stack:
 
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
+## Entity Relation Diagram:
+
+![ERdiagram](https://user-images.githubusercontent.com/77812398/135189513-20de3da8-b68b-4903-a651-1104e5812a78.jpeg)
+
+
 
 
 
