@@ -16,6 +16,7 @@ We are providing the chat option inside the application so that students can int
 
 We are providing additional options for students to customize their own choice of themes according to their choice.
 
+
 ## Benefits :
 
 * This application would provide a single snapshot of calender to check the deadlines of upcoming taks.
@@ -23,6 +24,7 @@ We are providing additional options for students to customize their own choice o
 * This application would provide a feature with memo functionality option with a little description on the details of the task.
 * This application would provide a chat option to students to allow the interaction between students and professors.
 * This application will provide user with grid view of courses enrolled. 
+
 
 ## Epics / User Stories / Tasks :
 
@@ -42,6 +44,7 @@ Below would be the estimated user stories for this project.
 
 7)As a User I want to choose my themes for display purpose
 
+
 ## Acceptance criteria checklist:
 
 * Each User must have a PC.
@@ -49,18 +52,23 @@ Below would be the estimated user stories for this project.
 * Having knowledge on chat option to communicate with professors and students.
 * Having Knowledge of customization of themes to choose as per the display.
 
+
 ## Schedule:
 Below is the estimated schedule of user stories for this project:
 ![image](https://user-images.githubusercontent.com/77593316/133338569-549b783c-801d-4ae3-bca0-214f64904cd4.png)
 
+
 ## User Interface Sketches 
 <img width="956" alt="HomePage" src="https://user-images.githubusercontent.com/77635770/135183140-ae0b14a3-41e0-423a-b55f-cbc00bfc92a6.PNG">
+
 
 ## Sign-in Page Layout
 ![signinpage](https://user-images.githubusercontent.com/77635770/133955998-e2e2f408-c036-4f60-b1a3-e4351978a0ae.jpeg)
 
+
 ## Sign-up Page Layout
 ![signuppage](https://user-images.githubusercontent.com/77635770/133956002-9098930a-acdd-492f-a42d-938eb557acc6.jpeg)
+
 
 ## Technology stack descriptions:
 
@@ -77,16 +85,20 @@ Below are the details for stack:
 
 4)**Front-end page plan :** The Front-end page plan would be single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages. The goal is faster transitions that make the website feel more like a native app.
 
+
 5)**Front-end responsive design :** The Front end responsive design would be **Bootstrap.**
+
 
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
-## Entity Relation Diagram:
 
-![ERdiagram](https://user-images.githubusercontent.com/77812398/135189513-20de3da8-b68b-4903-a651-1104e5812a78.jpeg)
+## Data Model:
+
+![Data model](https://user-images.githubusercontent.com/77812398/135197182-4cc5906b-5f1b-48be-810e-576ca6dee5c9.png)
 
 
-## Sample Data
+## Sample Data:
+
 [ProjectSampleData.xlsx](https://github.com/Maruthi158/691-01-F21-DevRFP-Group5/files/7248578/ProjectSampleData.xlsx)
 
 
