@@ -20,7 +20,7 @@ We are providing additional options for students to customize their own choice o
 
 ## Benefits :
 
-* This application would provide a single snapshot of calender to check the deadlines of upcoming taks.
+* This application would provide a single snapshot of calender to check the deadlines of upcoming tasks.
 * This application would provide a feature with memo functionality option which would help users to know about the deatils of the upcoming assignments.
 * This application would provide a chat option to students to allow the interaction between students and professors.
 * This application will provide user with grid view of courses enrolled which helps easy to know about courses.  
