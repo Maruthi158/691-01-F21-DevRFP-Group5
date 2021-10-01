@@ -1,7 +1,8 @@
 
 ## Statement of Purpose :
 
- We intend to build a native web application that would be a solo place where students would be able to track the upcoming assignments, class tasks in an easy way . This tool allows students to even check for updates in the calendar about upcoming to-do lists, memo functionality. This tool will also provide the flexibility for the students to customize the look of the application based on their own choice of themes. The chat option inside the application would ease the communication between students and professors.
+ We intend to build a native web application that would be a solo place where students would be able to track the upcoming assignments, class tasks in an easy way . This tool allows students to even check for updates in the calendar about upcoming to-do lists, memo functionality. This tool will also provide the flexibility for the students to customize the look of the application based on their own choice of themes. The chat option inside the application would ease the communication between students and professors. 
+The main purpose of this application is to help students build knowledge towards the course being a platform for having all the information at the same place. Also for the preparation of examination and future purposes, the data that is available in this application helps.
  
  
  ## Overview of Project :
