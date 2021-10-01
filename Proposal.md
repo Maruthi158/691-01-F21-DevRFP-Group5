@@ -21,29 +21,26 @@ We are providing additional options for students to customize their own choice o
 ## Benefits :
 
 * This application would provide a single snapshot of calender to check the deadlines of upcoming taks.
-* This application would provide the about upcoming to-do lists .
-* This application would provide a feature with memo functionality option with a little description on the details of the task.
+* This application would provide a feature with memo functionality option which would help users to know about the deatils of the upcoming assignments.
 * This application would provide a chat option to students to allow the interaction between students and professors.
-* This application will provide user with grid view of courses enrolled. 
+* This application will provide user with grid view of courses enrolled which helps easy to know about courses.  
 
 
 ## Epics / User Stories / Tasks :
 
 Below would be the estimated user stories for this project.
 
-1)As a User I want to login/Signup for the application.
+1)As a student user I want to login/Signup for the application.
 
-2)As a user I want to login via two factor authentication successfully using the application
+2)As a User I need to upload my course Schedule to visualise my courses in the home page of the application.
 
-3)As a User I want to upload my course Schedule
+3)As a User I can view grid view of my courses from my course schedule.
 
-4)As a User I want to view grid view of my courses
+4)As a User I want to know about the upcoming to-do lists of the specific class.
 
-5)As a User I want to know about the upcoming to-do lists of the specific class.
+5)As a User I want to look at the memo functionlity of the application for the details of upcoming assignments.
 
-6)As a User I want to look at the memo functionlity of the application.
-
-7)As a User I want to choose my themes for display purpose
+6)As a User I can easily choose my themes for display purpose.
 
 
 ## Acceptance criteria checklist:
