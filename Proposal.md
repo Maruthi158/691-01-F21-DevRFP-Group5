@@ -69,10 +69,19 @@ Below would be the estimated user stories for this project.
 
 * Should be able to able to communicate with other students
 * should be able to communicate with professors.
-* 
+
+## Scope:
+We are building a web application that would have the following features like display the upcoming to-do lists on the home page of the application with memo functionality feature. The application would also provide a calendar option to view all the assignment's due dates in an organized and  Visualized way. The chat option inside the application would allow the communication between students in an efficient and better way.
+
+This application does provide the functionality to submit their assignments, view their grades.
+
 ## Schedule:
 Below is the project schedule:
 ![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
+
+## Budget :
+![image](https://user-images.githubusercontent.com/77593316/135744040-e87f3b3c-5186-4554-9d72-5b6c03aecfec.png)
+
 
 ## User Interface Sketches 
 <img width="956" alt="HomePage" src="https://user-images.githubusercontent.com/77635770/135183140-ae0b14a3-41e0-423a-b55f-cbc00bfc92a6.PNG">
