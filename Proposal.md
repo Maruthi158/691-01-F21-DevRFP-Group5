@@ -36,6 +36,8 @@ Below would be the estimated user stories for this project.
 
 6)As a student user, I want to customize the theme of the application to have a better visualization.
 
+7)As a student user,I want an chat option to communicate with students and professors
+
 
 ## Acceptance criteria checklist:
 
@@ -46,8 +48,10 @@ Below would be the estimated user stories for this project.
 
 
 ## Schedule:
-Below is the estimated schedule of user stories for this project:
-![image](https://user-images.githubusercontent.com/77593316/133338569-549b783c-801d-4ae3-bca0-214f64904cd4.png)
+Below is the project schedule:
+![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
+
+
 
 
 ## User Interface Sketches 
