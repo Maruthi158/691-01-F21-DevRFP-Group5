@@ -130,6 +130,11 @@ Below are the details for stack:
 
 ![image](https://user-images.githubusercontent.com/77593316/135742294-e78a079c-f99d-4bb2-942a-b147b321cc44.png)
 
+## Risks/Assumptions:
+
+* Student User should upload the schedule correctly by using a proper file format.
+* The authentication must be properly done based on the data stored in the database.
+
 
 
 
