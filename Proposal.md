@@ -5,41 +5,36 @@
  
  
  ## Overview of Project :
+ The overview of the project is to develop a web application that allows students to track their upcoming assignments or events related to a  specific Course.
  
- We would like to create a native web application in which upon clicking the application we will be re-directed to the screen where it will display two options sign up and sign in. If we have new students who are trying to use this application for the first time, they need to create the profile newly by clicking sign up. Existing students can log in using the sign-in option.
-
-The existing student users can log in with a user id and password, we will include the two-factor authentication with User id and mobile number. For mobile number authentication we will receive a verification code to our mobile after entering the phone number.
-
-Students can view courses they registered for, to-do list, memo functionality which will encourage them to complete a task on time.
-
-We are providing the chat option inside the application so that students can interact with the Professors as well as students.
-
-We are providing additional options for students to customize their own choice of themes according to their choice.
+* At first, we would have a login page where an existing user can log in or a new user can create an account.
+* After they have created an account with their desired userID and password. They can upload their schedule.
+* They can view courses they registered for, the to-do list, memo functionality of the assignments which will encourage them to complete a task on time.
+* They would be provided with a chat option to ease the communication between students and professors.
+* The users would be provided an option to customize the look of the application based on their choice.
 
 
 ## Benefits :
 
-* This application would provide a single snapshot of calender to check the deadlines of upcoming tasks.
-* This application would provide a feature with memo functionality option which would help users to know about the deatils of the upcoming assignments.
+* This application would provide a single snapshot of the calendar to check the deadlines of upcoming tasks.
+* This application would provide a feature with a memo functionality option which would help users to know about the details of the upcoming assignments.
 * This application would provide a chat option to students to allow the interaction between students and professors.
-* This application will provide user with grid view of courses enrolled which helps easy to know about courses.  
+* This application will provide a flexibility for users to customize the look of the application according to their choice as they would have better visualization  
 
 
 ## Epics / User Stories / Tasks :
 
 Below would be the estimated user stories for this project.
 
-1)As a student user I want to login/Signup for the application.
+1)As a student user, I want to login/Signup for the application.
 
-2)As a User I need to upload my course Schedule to visualise my courses in the home page of the application.
+2)As a student User, I need to upload my course Schedule to visualise my courses in the home page of the application.
 
-3)As a User I can view grid view of my courses from my course schedule.
+3)As a student User, I want to know about the upcoming to-do lists of the specific class to complete all the assignments on schedule.
 
-4)As a User I want to know about the upcoming to-do lists of the specific class.
+5)As a student user, I want the memo functionlity feature of the application to know about the details of upcoming assignments.
 
-5)As a User I want to look at the memo functionlity of the application for the details of upcoming assignments.
-
-6)As a User I can easily choose my themes for display purpose.
+6)As a student user, I want to customize the theme of the application to have a better visualization.
 
 
 ## Acceptance criteria checklist:
