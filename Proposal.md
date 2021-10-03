@@ -91,7 +91,13 @@ Below are the details for stack:
 
 ## Sample Data:
 
-[ProjectSampleData.xlsx](https://github.com/Maruthi158/691-01-F21-DevRFP-Group5/files/7248578/ProjectSampleData.xlsx)
+![image](https://user-images.githubusercontent.com/77593316/135742273-fb36d7b8-41ef-4f7a-aed2-ff39303e87ac.png)
+
+![image](https://user-images.githubusercontent.com/77593316/135742289-3aaf6943-d89d-4765-b39d-22d489b5cdf4.png)
+
+![image](https://user-images.githubusercontent.com/77593316/135742294-e78a079c-f99d-4bb2-942a-b147b321cc44.png)
+
+
 
 
 
