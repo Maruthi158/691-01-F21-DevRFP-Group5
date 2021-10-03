@@ -28,31 +28,51 @@ Below would be the estimated user stories for this project.
 
 1)As a student user, I want to login/Signup for the application.
 
+
+## Acceptance criteria checklist:
+
+* Should be able to able to login successfully by providing valid credentials.
+* New users must be able to sign up for the application by providing all the details.
+* Users entering the wrong username or password must be restricted with login and provide the respective error message.
+
 2)As a student User, I need to upload my course Schedule to visualise my courses in the home page of the application.
 
+## Acceptance criteria checklist:
+
+* Should be able to able to successfully upload my course schedule file without any issue.
+* Able to visualize the courses on the welcome page according to my schedule
+* Users who did not upload the schedule must be restricted for any access to the application and an option should be to upload the schedule to visualize their courses.
+
 3)As a student User, I want to know about the upcoming to-do lists of the specific class to complete all the assignments on schedule.
-
-5)As a student user, I want the memo functionlity feature of the application to know about the details of upcoming assignments.
-
-6)As a student user, I want to customize the theme of the application to have a better visualization.
-
-7)As a student user,I want an chat option to communicate with students and professors
 
 
 ## Acceptance criteria checklist:
 
-* Each User must have a PC.
-* Should be able to use the application efficiently to check his upcoming events.
-* Having knowledge on chat option to communicate with professors and students.
-* Having Knowledge of customization of themes to choose as per the display.
+* Should be able to use the application efficiently to check  upcoming to-do lists of the specific course.
+
+5)As a student user, I want the memo functionlity feature of the application to know about the details of upcoming assignments.
+
+## Acceptance criteria checklist:
+
+* Should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
+
+6)As a student user, I want to customize the theme of the application to have a better visualization.
+
+## Acceptance criteria checklist:
+
+* Should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
 
 
+7)As a student user,I want an chat option to communicate with students and professors
+
+## Acceptance criteria checklist:
+
+* Should be able to able to communicate with other students
+* should be able to communicate with professors.
+* 
 ## Schedule:
 Below is the project schedule:
 ![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
-
-
-
 
 ## User Interface Sketches 
 <img width="956" alt="HomePage" src="https://user-images.githubusercontent.com/77635770/135183140-ae0b14a3-41e0-423a-b55f-cbc00bfc92a6.PNG">
