@@ -29,7 +29,7 @@ Below would be the estimated user stories for this project.
 1)As a student user, I want to login/Signup for the application.
 
 
-## Acceptance criteria checklist:
+#### Acceptance criteria checklist:
 
 * Should be able to able to login successfully by providing valid credentials.
 * New users must be able to sign up for the application by providing all the details.
@@ -37,7 +37,7 @@ Below would be the estimated user stories for this project.
 
 2)As a student User, I need to upload my course Schedule to visualise my courses in the home page of the application.
 
-## Acceptance criteria checklist:
+####  Acceptance criteria checklist:
 
 * Should be able to able to successfully upload my course schedule file without any issue.
 * Able to visualize the courses on the welcome page according to my schedule
@@ -46,26 +46,26 @@ Below would be the estimated user stories for this project.
 3)As a student User, I want to know about the upcoming to-do lists of the specific class to complete all the assignments on schedule.
 
 
-## Acceptance criteria checklist:
+####  Acceptance criteria checklist:
 
 * Should be able to use the application efficiently to check  upcoming to-do lists of the specific course.
 
 5)As a student user, I want the memo functionlity feature of the application to know about the details of upcoming assignments.
 
-## Acceptance criteria checklist:
+####  Acceptance criteria checklist:
 
 * Should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
 
 6)As a student user, I want to customize the theme of the application to have a better visualization.
 
-## Acceptance criteria checklist:
+####  Acceptance criteria checklist:
 
 * Should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
 
 
 7)As a student user,I want an chat option to communicate with students and professors
 
-## Acceptance criteria checklist:
+####  Acceptance criteria checklist:
 
 * Should be able to able to communicate with other students
 * should be able to communicate with professors.
