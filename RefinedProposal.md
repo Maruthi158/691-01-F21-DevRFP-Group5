@@ -31,9 +31,9 @@ Below would be the estimated user stories for this project.
 
 #### Acceptance criteria checklist:
 
-* Should be able to able to login successfully by providing valid credentials.
-* New users must be able to sign up for the application by providing all the details.
-* Users entering the wrong username or password must be restricted with login and provide the respective error message.
+* Given that By opening the application  I would be able to login successfully into the application by providing valid credentials.
+* Given that as a New users to the application we must be able to sign up for the application by providing all the required details.
+* Given that when student users enters the invalid credentials I  must be restricted with login and provide the respective error message.
 
 2)As a student User, I need to upload my course Schedule to visualise my courses in the home page of the application.
 
