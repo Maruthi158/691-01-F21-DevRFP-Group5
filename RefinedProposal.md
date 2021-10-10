@@ -124,7 +124,7 @@ Below are the details for stack:
 
 ## Sample Data:
 
-![image](https://user-images.githubusercontent.com/77593316/135742273-fb36d7b8-41ef-4f7a-aed2-ff39303e87ac.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/77635770/136710070-3d2d7402-061e-41b7-bbc0-594f1a5963b0.png)
 
 ![image](https://user-images.githubusercontent.com/77593316/135742289-3aaf6943-d89d-4765-b39d-22d489b5cdf4.png)
 
