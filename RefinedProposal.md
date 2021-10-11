@@ -24,6 +24,7 @@
 
 ## Epics / User Stories / Tasks :
 
+
 Below would be the estimated user stories for this project.
 
 1)As a student user, I want to login/Signup for the application.
@@ -70,20 +71,18 @@ Below would be the estimated user stories for this project.
 * Should be able to able to communicate with other students
 * should be able to communicate with professors.
 
-## Scope:
-We are building a web application that would have the following features like display the upcoming to-do lists on the home page of the application with memo functionality feature. The application would also provide a calendar option to view all the assignment's due dates in an organized and  Visualized way. The chat option inside the application would allow the communication between students in an efficient and better way.
 
-This application does provide the functionality to submit their assignments, view their grades.
+## Functional Requirements:
 
-## Schedule:
-Below is the project schedule:
-![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
 
-## Budget :
-![image](https://user-images.githubusercontent.com/77593316/135744040-e87f3b3c-5186-4554-9d72-5b6c03aecfec.png)
+## Performance requirements (within range of values):
+
+
+## Other requirements:
 
 
 ## User Interface Sketches 
+
 <img width="956" alt="HomePage" src="https://user-images.githubusercontent.com/77635770/135183140-ae0b14a3-41e0-423a-b55f-cbc00bfc92a6.PNG">
 
 
@@ -95,7 +94,18 @@ Below is the project schedule:
 ![signuppage](https://user-images.githubusercontent.com/77635770/133956002-9098930a-acdd-492f-a42d-938eb557acc6.jpeg)
 
 
-## Technology stack descriptions:
+## E-R diagram:
+
+## Sample Data:
+
+![Screenshot (72)](https://user-images.githubusercontent.com/77635770/136710070-3d2d7402-061e-41b7-bbc0-594f1a5963b0.png)
+
+![image](https://user-images.githubusercontent.com/77593316/135742289-3aaf6943-d89d-4765-b39d-22d489b5cdf4.png)
+
+![Screenshot (74)](https://user-images.githubusercontent.com/77635770/136712555-bb8dbef4-273e-4800-b5f7-dac379aacf55.png)
+
+
+## Stack description:
 
 Below are the details for stack:
 
@@ -117,24 +127,44 @@ Below are the details for stack:
 6)**Static analysis tools :** The static analysis tools  used for this project is **Snyk.**
 
 
+## Risks and assumptions:
+
+* Student User should upload the schedule correctly by using a proper file format.
+* The authentication must be properly done based on the data stored in the database.
+
+
+## Deliverable artifacts:
+
+
+## Scope:
+We are building a web application that would have the following features like display the upcoming to-do lists on the home page of the application with memo functionality feature. The application would also provide a calendar option to view all the assignment's due dates in an organized and  Visualized way. The chat option inside the application would allow the communication between students in an efficient and better way.
+
+This application does provide the functionality to submit their assignments, view their grades.
+
+
+## Milestones:
+
+
+## Schedule and Iteration Plan:
+Below is the project schedule:
+![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
+
+
+## Budget :
+![image](https://user-images.githubusercontent.com/77593316/135744040-e87f3b3c-5186-4554-9d72-5b6c03aecfec.png)
+
+
+## Test plan with requirements:
+
+
+
 ## Data Model:
 
 ![Data model](https://user-images.githubusercontent.com/77812398/135197182-4cc5906b-5f1b-48be-810e-576ca6dee5c9.png)
 
 
-## Sample Data:
-
-![Screenshot (72)](https://user-images.githubusercontent.com/77635770/136710070-3d2d7402-061e-41b7-bbc0-594f1a5963b0.png)
-
-![image](https://user-images.githubusercontent.com/77593316/135742289-3aaf6943-d89d-4765-b39d-22d489b5cdf4.png)
-
-![Screenshot (74)](https://user-images.githubusercontent.com/77635770/136712555-bb8dbef4-273e-4800-b5f7-dac379aacf55.png)
 
 
-## Risks/Assumptions:
-
-* Student User should upload the schedule correctly by using a proper file format.
-* The authentication must be properly done based on the data stored in the database.
 
 
 
