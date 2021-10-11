@@ -91,8 +91,7 @@ Below would be the estimated user stories for this project.
 
 ## Other requirements:
 
-*  The student must complete an assignment and pass an exam in Module 1, before accessing Module 2.
-*  The student must have to remember his user credentials in order to login by completing authentication process.
+*  The student must have to remember their user credentials in order to login to the application.
 
 
 ## User Interface Sketches 
