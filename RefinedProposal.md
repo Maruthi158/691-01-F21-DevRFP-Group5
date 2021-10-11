@@ -75,7 +75,14 @@ Below would be the estimated user stories for this project.
 ## Functional Requirements:
 
 
-## Performance requirements (within range of values):
+## Performance requirements:
+
+* Use a computer 5 years old or newer when possible
+* 2 GHz processor or faster
+* 1GB RAM or greater
+* 80 GB hard drive or larger
+* Cable/DSL broadband connection or better
+* 1024×768 or greater resolution monitor
 
 
 ## Other requirements:
