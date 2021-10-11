@@ -74,6 +74,10 @@ Below would be the estimated user stories for this project.
 
 ## Functional Requirements:
 
+* Ability to display 'last name, firstname and middle initial after the word HELLO.
+* Ability to display "Do you want to sign-in again" after logging out.
+* Ability for the user to change his profile details if required
+
 
 ## Performance requirements:
 
@@ -86,6 +90,9 @@ Below would be the estimated user stories for this project.
 
 
 ## Other requirements:
+
+*  The student must complete an assignment and pass an exam in Module 1, before accessing Module 2.
+*  The student must have to remember his user credentials in order to login by completing authentication process.
 
 
 ## User Interface Sketches 
