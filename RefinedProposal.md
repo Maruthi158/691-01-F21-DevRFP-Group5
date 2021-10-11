@@ -149,6 +149,9 @@ Below are the details for stack:
 
 ## Deliverable artifacts:
 
+* For the submission of assignment, upload option to be used for uploading the file.
+* After submission of assignment, downloading file and also view submission details of the submission file can be viewed.
+
 
 ## Scope:
 We are building a web application that would have the following features like display the upcoming to-do lists on the home page of the application with memo functionality feature. The application would also provide a calendar option to view all the assignment's due dates in an organized and  Visualized way. The chat option inside the application would allow the communication between students in an efficient and better way.
