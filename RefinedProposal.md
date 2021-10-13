@@ -210,7 +210,10 @@ This application does provide the functionality to submit their assignments, vie
 
 
 ## Milestones:
-
+* Students can easily access all the information about books.
+* Students have the option to sell there books to library.
+* Students can borrow books from library.
+* Opportunity to improve end-user experience.
 
 ## Schedule and Iteration Plan:
 Below is the project schedule:
