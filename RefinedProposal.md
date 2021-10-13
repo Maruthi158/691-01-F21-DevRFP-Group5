@@ -83,11 +83,6 @@ As a Student User, I want to create a user profile:
 
 1) New student Users must create the user profile to use the application by sign-up option.
 2) Existing student users must log in with a user id, password
-3)The existing student users will receive a text code for their mobile to complete the two authentications.
-
-<img src="signup.jpg" alt="drawing"  width= 500 style="border-radius:50%" /> 
-<img src="signin.png" alt="drawing" width= 500  style="border-radius:50%" />  
-
 
 As a Student User, I want to display my courses and to-do lists,memo functionality and my calender:
 
@@ -103,9 +98,6 @@ As a Student User,I want to Communicate with other students and Professors:
 
 As a Student User,I want to choose different themes for my display:
 1) I will be provided with an option to choose different themes based on the options available so I can choose my own choice of themes.
-
-
-
 
 
  The app must work on:
@@ -127,10 +119,10 @@ As a Student User,I want to choose different themes for my display:
 * Cable/DSL broadband connection or better
 * 1024×768 or greater resolution monitor
 
-
 ## Other requirements:
 
 * The student must have to remember their user credentials in order to login to the application.
+* The student need to upload the course schedule to access the applcation.
 
 
 ## User Interface Sketches 
