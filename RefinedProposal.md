@@ -210,10 +210,10 @@ This application does provide the functionality to submit their assignments, vie
 
 
 ## Milestones:
-* Students can easily access all the information about books.
-* Students have the option to sell there books to library.
-* Students can borrow books from library.
-* Opportunity to improve end-user experience.
+* Design and Developing an Static page to login or signup to the application.
+* Design and Developing an application page to upload the course schedule from the student user.
+* Designing the Welcome page of the application by providing all courses and to-do notifications.
+* Designing and Developing the calender page of the application to visualize the upcoming assignments.
 
 ## Schedule and Iteration Plan:
 Below is the project schedule:
