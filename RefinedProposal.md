@@ -40,44 +40,83 @@ Below would be the estimated user stories for this project.
 
 ####  Acceptance criteria checklist:
 
-* Given that should be able to successfully upload my course schedule file without any issue.
-* Given that to visualize the courses on the welcome page according to my schedule
-* Given that users who did not upload the schedule must be restricted for any access to the application and an option should be to upload the schedule to visualize their courses.
+* Given that student user, should be able to successfully upload my course schedule file without any issue.
+* Given that student user must visualize the courses on the welcome page according to my schedule
+* Given that student users who did not upload the schedule must be restricted for any access to the application and an option should be to upload the schedule to visualize their courses.
 
 3)As a student User, I want to know about the upcoming to-do lists of the specific class to complete all the assignments on schedule.
 
 
 ####  Acceptance criteria checklist:
 
-* Given that should be able to use the application efficiently to check  upcoming to-do lists of the specific course.
+* Given that student user should be able to use the application efficiently to check  upcoming to-do lists of the specific course.
 
 5) As a student user, I want the memo functionlity feature of the application to know about the details of upcoming assignments.
 
 ####  Acceptance criteria checklist:
 
-* Given that should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
+* Given that student user should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
 
 6)As a student user, I want to customize the theme of the application to have a better visualization.
 
 ####  Acceptance criteria checklist:
 
-* Given that should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
+* Given that student user, should be able to use the application efficiently to check  memo functionality feature to check about the assigment details for the upcoming to-do lists of the specific course.
 
 
 7)As a student user,I want an chat option to communicate with students and professors
 
 ####  Acceptance criteria checklist:
 
-* Given that should be able to able to communicate with other students
-* Given that should be able to communicate with professors.
+* Given that student user, should be able to able to communicate with other students by using the chat option.
+* Given that student user, should be able to communicate with professors by using the chat option.
 
 
 ## Functional Requirements:
 
-* Ability to display 'last name, firstname and middle initial after the word HELLO.
-* Ability to display "Do you want to sign-in again" after logging out.
-* Ability for the user to change his profile details if required
+This tool would be a web application with with authentication and authorization. The following roles are suggested:
 
+* Student User 
+
+
+As a Student User, I want to create a user profile:
+
+1) New student Users must create the user profile to use the application by sign-up option.
+2) Existing student users must log in with a user id, password
+3)The existing student users will receive a text code for their mobile to complete the two authentications.
+
+<img src="signup.jpg" alt="drawing"  width= 500 style="border-radius:50%" /> 
+<img src="signin.png" alt="drawing" width= 500  style="border-radius:50%" />  
+
+
+As a Student User, I want to display my courses and to-do lists,memo functionality and my calender:
+
+1) After successful login students will be directed to the page where they can view the list of courses enrolled.
+2) They can view the to-do list for the upcoming tasks to complete tasks on time.
+3) They can view the message of completing tasks by using the feature of memo functionality
+4) Students can view their calender with the upcoming events,tasks they need to fulfill.
+
+As a Student User,I want to Communicate with other students and Professors:
+
+1) After login I will be able to use the chat option provided to communicate with other students.
+2) Using the same chat option I would be able to communicate with my professors to retrieve any help required from them.
+
+As a Student User,I want to choose different themes for my display:
+1) I will be provided with an option to choose different themes based on the options available so I can choose my own choice of themes.
+
+
+
+
+
+ The app must work on:
+
+ * an iPhone SE
+	
+* an Android device
+	
+* a laptop computer
+	
+* an iPad
 
 ## Performance requirements:
 
