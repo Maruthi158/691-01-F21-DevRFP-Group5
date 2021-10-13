@@ -206,7 +206,14 @@ Below is the project schedule:
 
 
 ## Test plan with requirements:
-
+1.If used tried to login into web-site need to authenticate whether user is valid or not.
+2.If user is not a valid then redirect to same login page
+3.If user is valid theen allowed to access the courses website.
+4.Need to check whether upload button is working or not.
+5.When we click on to-do list calender is displaying or not.
+6.when user on memo functionality, assignments are properly showing or not.
+7.User selected proper theme or not
+8.On chat option whether the website properly following the multi-user chat system property or not
 
 
 ## Data Model:
