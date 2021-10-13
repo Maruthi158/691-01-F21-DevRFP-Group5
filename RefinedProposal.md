@@ -150,6 +150,8 @@ As a Student User,I want to choose different themes for my display:
 
 ![scheduleID](https://user-images.githubusercontent.com/77635770/137074695-b5d14114-3090-46c6-9e0c-399757a49d3b.png)
 
+![signUpDetails](https://user-images.githubusercontent.com/77635770/137078686-bcac2ab8-fbe5-429c-a40f-a2d0e62c542c.png)
+
 
 ## Stack description:
 
