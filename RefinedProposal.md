@@ -127,8 +127,6 @@ As a Student User,I want to choose different themes for my display:
 
 ## User Interface Sketches 
 
-<img width="956" alt="HomePage" src="https://user-images.githubusercontent.com/77635770/135183140-ae0b14a3-41e0-423a-b55f-cbc00bfc92a6.PNG">
-
 
 ## Sign-in Page Layout
 ![HomePage (2)](https://user-images.githubusercontent.com/77635770/137050011-222de0e0-92b1-43fc-81b1-7764df2425a7.jpeg)
