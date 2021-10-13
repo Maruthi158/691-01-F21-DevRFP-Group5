@@ -151,7 +151,7 @@ As a Student User,I want to choose different themes for my display:
 
 Below are the details for stack:
 
-1)**Backend language + framework :** The backend language & framework  for this project would be  **JavaScript / Node.js**
+1)**Backend language + framework :** The backend language & framework  for this project would be  **Node.js / Express**
 
 
 2)**Backend app host :** The backend app host would be **Heroku**
