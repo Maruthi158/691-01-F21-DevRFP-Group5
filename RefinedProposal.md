@@ -206,19 +206,17 @@ Below is the project schedule:
 
 
 ## Test plan with requirements:
-1.If used tried to login into web-site need to authenticate whether user is valid or not.
-2.If user is not a valid then redirect to same login page
-3.If user is valid theen allowed to access the courses website.
-4.Need to check whether upload button is working or not.
-5.When we click on to-do list calender is displaying or not.
-6.when user on memo functionality, assignments are properly showing or not.
-7.User selected proper theme or not
-8.On chat option whether the website properly following the multi-user chat system property or not
 
+1.The student user must be able login into the application by providing valid credentials
 
-## Data Model:
+2.The student user must be restricted to access the application if they provide invalid credentials
 
-![Data model](https://user-images.githubusercontent.com/77812398/135197182-4cc5906b-5f1b-48be-810e-576ca6dee5c9.png)
+3.The student user must be able to upload the schedule  properly as expected .
+
+4.The student user must be able to verify the to-do list and memo functionality of the specific course in the application.
+
+5.The student user must be able to customize the themes of the application.
+
 
 
 
