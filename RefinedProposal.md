@@ -136,6 +136,10 @@ As a Student User,I want to choose different themes for my display:
 ![signuppage](https://user-images.githubusercontent.com/77635770/133956002-9098930a-acdd-492f-a42d-938eb557acc6.jpeg)
 
 
+## Schedule Upload Layout
+![ScheduleUpload](https://user-images.githubusercontent.com/77635770/137082168-f8d1465d-ccf6-412e-b521-cc556e89e934.jpeg)
+
+
 ## E-R diagram:
 
 ![Blank diagram](https://user-images.githubusercontent.com/77815724/137068116-68065add-301f-4e3c-9b3c-1465962cbfec.jpeg)
