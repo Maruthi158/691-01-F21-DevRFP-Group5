@@ -91,7 +91,7 @@ Below would be the estimated user stories for this project.
 
 ## Other requirements:
 
-*  The student must have to remember their user credentials in order to login to the application.
+* The student must have to remember their user credentials in order to login to the application.
 
 
 ## User Interface Sketches 
@@ -100,7 +100,7 @@ Below would be the estimated user stories for this project.
 
 
 ## Sign-in Page Layout
-![signinpage](https://user-images.githubusercontent.com/77635770/133955998-e2e2f408-c036-4f60-b1a3-e4351978a0ae.jpeg)
+![HomePage (2)](https://user-images.githubusercontent.com/77635770/137050011-222de0e0-92b1-43fc-81b1-7764df2425a7.jpeg)
 
 
 ## Sign-up Page Layout
