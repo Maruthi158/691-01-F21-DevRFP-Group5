@@ -217,7 +217,7 @@ This application does provide the functionality to submit their assignments, vie
 
 ## Schedule and Iteration Plan:
 Below is the project schedule:
-![image](https://user-images.githubusercontent.com/77593316/135742960-e4d0ed26-0e9f-4914-b147-8d3ac094288d.png)
+![image](https://user-images.githubusercontent.com/77635770/137180499-988aef16-dc30-4d73-8da3-9a51d526543c.png)
 
 
 ## Budget :
