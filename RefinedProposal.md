@@ -178,8 +178,11 @@ Below are the details for stack:
 
 ## Deliverable artifacts:
 
-* For the submission of assignment, upload option to be used for uploading the file.
-* After submission of assignment, downloading file and also view submission details of the submission file can be viewed.
+* New student users successfully registering to the application
+* Existing student users able to login sucessfully with their valid credentials.
+* Existing student users able to upload the schedule properly.
+* Upon logging in the users must be able to view the courses and the to-do notifications
+* Student users can communciate with other students without difficulty.
 
 
 ## Scope:
