@@ -172,7 +172,8 @@ Below are the details for stack:
 ## Risks and assumptions:
 
 * Student User should upload the schedule correctly by using a proper file format.
-* The authentication must be properly done based on the data stored in the database.
+* The authentication must be properly verified.
+
 
 
 ## Deliverable artifacts:
