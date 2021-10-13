@@ -138,6 +138,8 @@ As a Student User,I want to choose different themes for my display:
 
 ## E-R diagram:
 
+![Blank diagram](https://user-images.githubusercontent.com/77815724/137068116-68065add-301f-4e3c-9b3c-1465962cbfec.jpeg)
+
 ## Sample Data:
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/77635770/136710070-3d2d7402-061e-41b7-bbc0-594f1a5963b0.png)
